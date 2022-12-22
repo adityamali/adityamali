@@ -1,4 +1,4 @@
-### Hi there this is Aditya Mali 👋
+# Hi there this is Aditya Mali 👋
 
 <!--
 **adityamali/adityamali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
