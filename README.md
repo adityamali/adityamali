@@ -16,13 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Connect with me at
 <p align="center">
-	<a href="https://www.linkedin.com/in/vaibhav-rathore-90436721b">
+	<a href="https://www.linkedin.com/in/adityamali2003/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://dev.to/iamvaibhavrathore">
-		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-	</a>
-        <a href="mailto:iamvaibhavrathore@gmail.com">
+        <a href="mailto:adityamali2003@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
